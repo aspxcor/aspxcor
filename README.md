@@ -1,5 +1,5 @@
 ### Hi Friends, Welcome Here 👋
-- 🔭 I’m currently studying at *EAGLE-Lab(Innovative Software Technology Development Center), College of Computer Science and Technology, Zhejiang University*
+- 🔭 I’m currently studying at *EAGLE-Lab (Innovative Software Technology Development Center), College of Computer Science and Technology, Zhejiang University*
 - 🌱 I’m currently focusing on `AIoT(Artificial Intelligence & Internet of Things)`, `IntelliSense(such as SLAM etc.)` , `HCI(Human–Computer Interaction)` and `Mobile Computing` <!--`Ubiquitous Computing`, `Embedded Systems` and `Edge Computing` -->
 - 📫 How to reach me: [Click Here To Contact Me](mailto:aspxcor@gmail.com)
 - ⚡ My main programming language: 
