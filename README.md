@@ -16,11 +16,6 @@
 
 <!--`Ubiquitous Computing`, `Embedded Systems` and `Edge Computing` -->
 
-- 📫 How to reach me: [Click Here To Contact Me](mailto:aspxcor@gmail.com)
-- ⚡ My main programming language: 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aspxcor&hide=jupyter%20notebook,javascript&langs_count=10&layout=compact)
-
 <!--
 **aspxcor/aspxcor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,7 +26,11 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
+- 📫 How to reach me: [Click Here To Contact Me](mailto:aspxcor@gmail.com)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 🤔 I’m a Creative Bug Maker.
+- ⚡ My main programming language: 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aspxcor&hide=jupyter%20notebook,javascript&langs_count=10&layout=compact)
   -->
