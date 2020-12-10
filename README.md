@@ -1,9 +1,11 @@
 ### Hi Friends, Welcome Here 👋
 
-- 🤔 I’m a Creative Bug Maker and I’m currently studying at *[EAGLE-Lab](http://eagle.zju.edu.cn/) (Innovative Software Technology Development Center), College of Computer Science and Technology, Zhejiang University*
+- 🤔 I’m a Creative Bug Maker and I’m currently studying at *[EAGLE-Lab](http://eagle.zju.edu.cn/) (Innovative Software Technology Development Center), College of Computer Science and Technology, Zhejiang University*. Recently I’m currently focusing on `Operations Research Optimization Algorithms(Algorithms in the Field of Computer Operations Research)`, `Multimodal sensing`, `IntelliSense(such as SLAM, WSN etc.)`, `HCI(Human–Computer Interaction)` and `Mobile Computing`.
+- ⚡ My main programming language: 
 
-- 🌱 Recently I’m currently focusing on 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aspxcor&hide=jupyter%20notebook,javascript&langs_count=10&layout=compact)
 
+<!--
   > ✨ `AIoT(Artificial Intelligence & Internet of Things)`
   > 
   > ✨ `Operations Research Optimization Algorithms(Algorithms in the Field of Computer Operations Research)`
@@ -13,7 +15,7 @@
   > ✨ `HCI(Human–Computer Interaction)` 
   > 
   > ✨ `Mobile Computing`
-
+-->
 <!--`Ubiquitous Computing`, `Embedded Systems` and `Edge Computing` -->
 
 <!--
