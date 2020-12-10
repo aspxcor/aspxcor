@@ -7,9 +7,13 @@
 - 🌱 I’m currently focusing on 
 
   > ✨ `AIoT(Artificial Intelligence & Internet of Things)`
+  > 
   > ✨ `Operations Research Optimization Algorithms(Algorithms in the Field of Computer Operations Research)`
+  > 
   > ✨ `IntelliSense(such as SLAM, WSN etc.)` 
+  > 
   > ✨ `HCI(Human–Computer Interaction)` 
+  > 
   > ✨ `Mobile Computing`
 
 <!--`Ubiquitous Computing`, `Embedded Systems` and `Edge Computing` -->
