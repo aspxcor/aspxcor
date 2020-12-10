@@ -2,19 +2,12 @@
 
 - 🤔 I’m a Creative Bug Maker and I’m currently studying at *[EAGLE-Lab](http://eagle.zju.edu.cn/) (Innovative Software Technology Development Center), College of Computer Science and Technology, Zhejiang University*. Recently I’m currently focusing on `Operations Research Optimization Algorithms(Algorithms in the Field of Computer Operations Research)`, `Multimodal sensing`, `IntelliSense(such as SLAM, WSN etc.)`, `HCI(Human–Computer Interaction)` and `Mobile Computing`.
 - ⚡ My main skills:
-    * ✨ Programming Languages:
-        * `C`, `C++`, `Python`, `Java`, `JavaScript`, `HTML`, `CSS`
-    * ✨ Development Skills:
-        * `Web Development (Frontend & Backend)` & `Web Crawler`
-        * `HPC(High Performance Computing)`, `CUDA`
-    * ✨ Tools:
-        * `Git`, `SVN`, `Vim`, `CLion`, `PyCharm`, `IDEA`, `Visual Studio`, `Android Studio`
-    * ✨ System Maintenance:
-        * `Linux`, `Docker`, `MySQL`, `MongoDB`, `PostgresDB`
-    * ✨ Tools:
-        * `Git`, `SVN`, `Vim`, `CLion`, `PyCharm`, `IDEA`, `Visual Studio`, `Android Studio`
-    * ✨ Misc:
-        * `Arduino`, `RaspberryPI`
+    * ✨ Programming Languages: `C`, `C++`, `Python`, `Java`, `JavaScript`, `HTML`, `CSS`
+    * ✨ Development Skills: `Web Development (Frontend & Backend)` & `Web Crawler`, `HPC(High Performance Computing)`, `CUDA`
+    * ✨ Tools: `Git`, `SVN`, `Vim`, `CLion`, `PyCharm`, `IDEA`, `Visual Studio`, `Android Studio`
+    * ✨ System Maintenance: `Linux`, `Docker`, `MySQL`, `MongoDB`, `PostgresDB`
+    * ✨ Tools: `Git`, `SVN`, `Vim`, `CLion`, `PyCharm`, `IDEA`, `Visual Studio`, `Android Studio`
+    * ✨ Misc: `Arduino`, `RaspberryPI`
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aspxcor&hide=jupyter%20notebook,javascript&langs_count=10&layout=compact)-->
 
