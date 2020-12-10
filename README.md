@@ -5,7 +5,7 @@
     * ✨ Programming Languages:
         * `C`, `C++`, `Python`, `Java`, `JavaScript`, `HTML`, `CSS`
     * ✨ Development Skills:
-        * Web Development (Frontend & Backend) & Web Crawler
+        * `Web Development (Frontend & Backend)` & `Web Crawler`
         * `HPC(High Performance Computing)`, `CUDA`
     * ✨ Tools:
         * `Git`, `SVN`, `Vim`, `CLion`, `PyCharm`, `IDEA`, `Visual Studio`, `Android Studio`
