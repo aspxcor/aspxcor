@@ -14,7 +14,7 @@
     * ✨ Tools:
         * `Git`, `SVN`, `Vim`, `CLion`, `PyCharm`, `IDEA`, `Visual Studio`, `Android Studio`
     * ✨ Misc:
-        * `Arduino`, `RaspberryPie`
+        * `Arduino`, `RaspberryPI`
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aspxcor&hide=jupyter%20notebook,javascript&langs_count=10&layout=compact)-->
 
