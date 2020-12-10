@@ -1,10 +1,8 @@
 ### Hi Friends, Welcome Here 👋
 
-- 🤔 I’m a Creative Bug Maker.
+- 🤔 I’m a Creative Bug Maker and I’m currently studying at *[EAGLE-Lab](http://eagle.zju.edu.cn/) (Innovative Software Technology Development Center), College of Computer Science and Technology, Zhejiang University*
 
-- 🔭 I’m currently studying at *[EAGLE-Lab](http://eagle.zju.edu.cn/) (Innovative Software Technology Development Center), College of Computer Science and Technology, Zhejiang University*
-
-- 🌱 I’m currently focusing on 
+- 🌱 Recently I’m currently focusing on 
 
   > ✨ `AIoT(Artificial Intelligence & Internet of Things)`
   > 
@@ -35,4 +33,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🤔 I’m a Creative Bug Maker.
   -->
