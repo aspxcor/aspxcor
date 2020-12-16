@@ -1,6 +1,6 @@
 ### Hi Friends, Welcome Here 👋
 
-- 🤔 I’m a Creative Bug Maker and I’m currently studying at *[EAGLE-Lab](http://eagle.zju.edu.cn/) (Innovative Software Technology Development Center), College of Computer Science and Technology, Zhejiang University*. Recently I’m currently interested in `Computer & Operations Research`, `Multimodal Sensing and MultiModal Machine Learning`, `IntelliSense(such as SLAM, WSN etc.)`, `HCI(Human–Computer Interaction)`, `Mobile Computing` and `Ubiquitous Computing`.
+- 🤔 I’m a Creative Bug Maker and I’m currently studying at *[EAGLE-Lab](http://eagle.zju.edu.cn/) (Innovative Software Technology Development Center), College of Computer Science and Technology, Zhejiang University*. Recently I’m currently interested in `Computer & Operations Research`, `Multimodal Sensing & MultiModal Machine Learning`, `IntelliSense(such as SLAM, WSN etc.)`, `HCI(Human–Computer Interaction)`, `Mobile Computing` and `Ubiquitous Computing`.
 - ⚡ My main skills:
     * ✨ Programming Languages: `C`, `C++`, `Python`, `Java`, `JavaScript`, `HTML`, `CSS`, `Matlab`, `Swift`
     * ✨ Development Skills: `Web Development (Frontend & Backend)`, `Web Crawler`, `HPC(High Performance Computing)`, `CUDA`
