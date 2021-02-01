@@ -6,6 +6,7 @@
     * ✨ Development Skills: `Web Development (Frontend & Backend)`, `Web Crawler`, `HPC(High Performance Computing)`, `CUDA`
     * ✨ Tools: `Git`, `SVN`, `Vim`, `CLion`, `Postman`,`PyCharm`, `IDEA`, `Visual Studio`, `Android Studio`,`DevCpp`,`Anaconda`
     * ✨ System Maintenance: `Linux`, `Docker`, `MySQL`, `MongoDB`, `PostgresDB`
+    * ✨ Deep Learning Framework: `TensorFlow`, `Pytorch`
     * ✨ Misc: `Arduino`, `RaspberryPI`
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aspxcor&hide=jupyter%20notebook,javascript&langs_count=10&layout=compact)-->
