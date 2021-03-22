@@ -1,6 +1,6 @@
 ### Hi Friends, Welcome Here 👋
 
-- 🤔 I’m a Creative Bug Maker and I’m currently studying at *[EAGLE-Lab](http://eagle.zju.edu.cn/) (Innovative Software Technology Development Center), College of Computer Science and Technology, Zhejiang University*. Recently I’m currently interested in `Computer & Operations Research`, `Multimodal Sensing & MultiModal Machine Learning`, `IntelliSense(such as SLAM, WSN etc.)`, `Computer Network`, `HCI(Human–Computer Interaction)`, `Mobile Computing` and `Ubiquitous Computing`.
+- 🤔 I’m a Creative Bug Maker and I’m currently studying at *[EAGLE-Lab](http://eagle.zju.edu.cn/) (Innovative Software Technology Development Center), College of Computer Science and Technology, Zhejiang University*. Recently I’m currently interested in `Computer & Operations Research`, `Multimodal Sensing & MultiModal Machine Learning`, `Edge AI`, `Computer Networks`, `HCI(Human–Computer Interaction)` and `Mobile Computing`.
 - ⚡ My main skills:
     * ✨ Programming Languages: `C`, `C++`, `Python`, `Java`, `JavaScript`, `HTML`, `CSS`, `Matlab`, `Swift`,`Assembly Language`
     * ✨ Development Skills: `Web Development (Frontend & Backend)`, `Web Crawler`, `HPC(High Performance Computing)`, `CUDA`
@@ -26,6 +26,8 @@
 
 <!--
 **aspxcor/aspxcor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+`IntelliSense(such as SLAM, WSN etc.)`
 
 Here are some ideas to get you started:
 
