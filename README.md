@@ -5,7 +5,7 @@
     * ✨ Programming Languages: `C`, `C++`, `Python`, `Java`, `JavaScript`, `HTML`, `CSS`, `Matlab`, `Swift`,`Assembly Language`
     * ✨ Development Skills: `Web Development (Frontend & Backend)`, `Web Crawler`, `HPC(High Performance Computing)`, `CUDA`
     * ✨ Tools: `Git`, `SVN`, `Vim`, `CLion`, `Postman`,`PyCharm`, `IDEA`, `Visual Studio`, `Android Studio`,`DevCpp`,`Anaconda`
-    * ✨ System Maintenance: `Linux`, `Docker`, `MySQL`, `MongoDB`, `PostgresDB`, `ROS`
+    * ✨ System Maintenance: `Linux`, `Docker`, `MySQL`, `MongoDB`, `PostgresDB`, `Redis`, `ROS`
     * ✨ Deep Learning Framework: `TensorFlow`, `Pytorch`
     * ✨ Misc: `Arduino`, `RaspberryPI`
 
