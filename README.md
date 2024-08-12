@@ -16,7 +16,7 @@
     * ⚡ Jiamei Lv, *Yi Gao**, **Zhi Ding**, Yuxiang Lin, Xinyun You, Guang Yang and *Wei Dong**, Providing UE-level QoS Support by Joint Scheduling and Orchestration for 5G vRAN, in IEEE International Conference on Computer Communications (EEE INFOCOM 2024), Vancouver, Canada, Accepted.(CCF A, TH-CPL A,*[Paper](https://www.emnets.cn/zh/publication/infocom-24-uqvran/uq-vran.pdf)*)
     * ⚡ **Zhi Ding**, Boyu Kong, Jiamei Lv, Yi Gao, Wei Dong, in the 18th China Conference on Internet of Things (Wireless Sensor Network) (CWSN 2024), Taiyuan, China, Accepted, Recommended to submit to Journal of Computer Science and Technology.(CCF B, TH-CPL B)
       
-- 💬 I am eager to chat and collaborate with individuals from diverse backgrounds. Please feel free to email me at: dingzhi@zju.edu.cn
+- 💬 I am eager to chat and collaborate with individuals from diverse backgrounds. Please feel free to email me at: aspxcor@gmail.com
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aspxcor&hide=jupyter%20notebook,javascript&langs_count=10&layout=compact)-->
 
