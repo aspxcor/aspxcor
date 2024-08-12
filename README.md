@@ -1,7 +1,7 @@
 ### Hi Friends, Welcome Here 👋
 
 <!--- 🤔 I’m a Creative Bug Maker and I’m currently studying at *[EAGLE-Lab](http://eagle.zju.edu.cn/) (Innovative Software Technology Development Center), College of Computer Science and Technology, Zhejiang University*. Recently I’m currently interested in `Machine Learning System`, `Computer Networks`, `HCI(Human–Computer Interaction)`, `Mobile Computing`, `Multimodal Machine Learning` and `Edge Computing`.  `Computer & Operations Research`, -->
-- 🤔 I have received my master degree at *[EAGLE-Lab](http://eagle.zju.edu.cn/) (Innovative Software Technology Development Center), College of Computer Science and Technology, Zhejiang University* and *[EmNets-Lab](https://www.emnets.cn/zh/) (Emerging Networked Systems), College of Computer Science and Technology, Zhejiang University* supervised by Prof. Wei Dong and Prof. Yi Gao in the College of Computer Science, Zhejiang University. Prior to that, I have also received my B.E. degree from *Zhejiang University*. Prior to that, I graduated from NO.2 Middle School of Shijiazhuang.
+- 🤔 I have received my master degree at *[EAGLE-Lab](http://eagle.zju.edu.cn/) (Innovative Software Technology Development Center), College of Computer Science and Technology, Zhejiang University* and *[EmNets-Lab](https://www.emnets.cn/zh/) (Emerging Networked Systems), College of Computer Science and Technology, Zhejiang University* supervised by Prof. Wei Dong (Selected in the National Youth Talent Support Program, supervised by Prof. Chun Chen, Chinese Academy of engineering academician) and Prof. Yi Gao in the College of Computer Science, Zhejiang University. Prior to that, I have also received my B.E. degree from *Zhejiang University*. Prior to that, I graduated from [NO.2 Middle School of Shijiazhuang](https://www.sjzez.com/).
 <!--- I am currently with the *[State Grid](http://www.sgcc.com.cn/)*, China. -->
 - ⚡ My main skills:
     * ✨ Programming Languages: `C`, `C++`, `Python`, `Java`, `JavaScript`, `HTML`, `CSS`, `Matlab`, `Swift`,`Assembly Language`
@@ -15,7 +15,11 @@
     * ⚡ **Zhi Ding**, Yuxiang Lin, Weifeng Xu, *Jiamei Lv**, *Yi Gao** and Wei Dong. Energy Optimiza-tion for Mobile Applications by Exploiting 5G Inactive State, in IEEE Transactions on Mobile Computing (IEEE TMC), doi: 10.1109/TMC.2024.3377696, Accepted.(CCF A, TH-CPL A, SCI, IF=5.538, *[Paper](https://ieeexplore.ieee.org/document/10473160)*)
     * ⚡ Jiamei Lv, *Yi Gao**, **Zhi Ding**, Yuxiang Lin, Xinyun You, Guang Yang and *Wei Dong**, Providing UE-level QoS Support by Joint Scheduling and Orchestration for 5G vRAN, in IEEE International Conference on Computer Communications (EEE INFOCOM 2024), Vancouver, Canada, Accepted.(CCF A, TH-CPL A, *[Paper](https://www.emnets.cn/zh/publication/infocom-24-uqvran/uq-vran.pdf)*)
     * ⚡ **Zhi Ding**, Boyu Kong, Jiamei Lv, Yi Gao, Wei Dong, in the 18th China Conference on Internet of Things (Wireless Sensor Network) (CWSN 2024), Taiyuan, China, Accepted, Recommended to submit to Journal of Computer Science and Technology.(CCF B, TH-CPL B)
-      
+
+- Selected Awards & Honors:
+    * ⚡ Outstanding Graduates of Zhejiang Province.
+    * ⚡ Outstanding Graduates of Zhejiang University.
+
 - 💬 I am eager to chat and collaborate with individuals from diverse backgrounds. Please feel free to email me at: aspxcor@gmail.com
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aspxcor&hide=jupyter%20notebook,javascript&langs_count=10&layout=compact)-->
