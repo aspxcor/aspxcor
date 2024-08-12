@@ -1,6 +1,8 @@
 ### Hi Friends, Welcome Here 👋
 
-- 🤔 I’m a Creative Bug Maker and I’m currently studying at *[EAGLE-Lab](http://eagle.zju.edu.cn/) (Innovative Software Technology Development Center), College of Computer Science and Technology, Zhejiang University*. Recently I’m currently interested in `Machine Learning System`, `Computer Networks`, `HCI(Human–Computer Interaction)`, `Mobile Computing`, `Multimodal Machine Learning` and `Edge Computing`.  <!--`Computer & Operations Research`, -->
+<!--- 🤔 I’m a Creative Bug Maker and I’m currently studying at *[EAGLE-Lab](http://eagle.zju.edu.cn/) (Innovative Software Technology Development Center), College of Computer Science and Technology, Zhejiang University*. Recently I’m currently interested in `Machine Learning System`, `Computer Networks`, `HCI(Human–Computer Interaction)`, `Mobile Computing`, `Multimodal Machine Learning` and `Edge Computing`.  `Computer & Operations Research`, -->
+- 🤔 I have received my master degree at *[EAGLE-Lab](http://eagle.zju.edu.cn/) (Innovative Software Technology Development Center), College of Computer Science and Technology, Zhejiang University* and *[EmNets-Lab](https://www.emnets.cn/zh/) (Emerging Networked Systems), College of Computer Science and Technology, Zhejiang University* supervised by Prof. Wei Dong and Prof. Yi Gao in the College of Computer Science, Zhejiang University. Prior to that, I have also received my B.E. degree from *Zhejiang University*.
+<!--- I am currently with the *[State Grid](http://www.sgcc.com.cn/)*, China. -->
 - ⚡ My main skills:
     * ✨ Programming Languages: `C`, `C++`, `Python`, `Java`, `JavaScript`, `HTML`, `CSS`, `Matlab`, `Swift`,`Assembly Language`
     * ✨ Development Skills: `Web Development (Frontend & Backend)`, `Web Crawler`, `HPC(High Performance Computing)`, `CUDA`
@@ -8,6 +10,11 @@
     * ✨ System Maintenance: `Linux`, `Docker`, `MySQL`, `MongoDB`, `PostgresDB`, `Redis`, `ROS`
     * ✨ Deep Learning Framework: `TensorFlow`, `Pytorch`
     * ✨ Misc: `Arduino`, `RaspberryPI`
+- Publications and Manuscripts:
+    * ⚡ **Zhi Ding**, Yuxiang Lin, Weifeng Xu, *Jiamei Lv**, *Yi Gao** and Wei Dong. Energy Optimiza-tion for Mobile Applications by Exploiting 5G Inactive State, in IEEE Transactions on Mobile Computing (IEEE TMC), doi: 10.1109/TMC.2024.3377696,Accepted.(CCF A, TH-CPL A, SCI, IF=5.538, *[Paper](https://ieeexplore.ieee.org/document/10473160)*)
+    * ⚡ Jiamei Lv, *Yi Gao**, **Zhi Ding**, Yuxiang Lin, Xinyun You, Guang Yang and *Wei Dong**, Providing UE-level QoS Support by Joint Scheduling and Orchestration for 5G vRAN, in IEEE International Conference on Computer Communications (EEE INFOCOM 2024), VancouverCanada,Accepted.(CCF A, TH-CPL A,*[Paper](https://www.emnets.cn/zh/publication/infocom-24-uqvran/uq-vran.pdf)*)
+    * ⚡ **Zhi Ding**, Boyu Kong, Jiamei Lv, Yi Gao, Wei Dong, in CWSN 2024.
+- 💬 I am eager to chat and collaborate with individuals from diverse backgrounds. Please feel free to email me at: dingzhi@zju.edu.cn
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aspxcor&hide=jupyter%20notebook,javascript&langs_count=10&layout=compact)-->
 
