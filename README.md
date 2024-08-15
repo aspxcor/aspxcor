@@ -19,7 +19,7 @@
 - Publications and Manuscripts:
     * ⚡ **Zhi Ding**, Yuxiang Lin, Weifeng Xu, *Jiamei Lv**, *Yi Gao** and Wei Dong. Energy Optimiza-tion for Mobile Applications by Exploiting 5G Inactive State, in IEEE Transactions on Mobile Computing (IEEE TMC), doi: 10.1109/TMC.2024.3377696, Accepted.(CCF A, TH-CPL A, SCI, IF=5.538, *[Paper](https://ieeexplore.ieee.org/document/10473160)*)
     * ⚡ Jiamei Lv, *Yi Gao**, **Zhi Ding**, Yuxiang Lin, Xinyun You, Guang Yang and *Wei Dong**, Providing UE-level QoS Support by Joint Scheduling and Orchestration for 5G vRAN, in IEEE International Conference on Computer Communications (IEEE INFOCOM 2024), Vancouver, Canada, Accepted.(CCF A, TH-CPL A, *[Paper](https://www.emnets.cn/zh/publication/infocom-24-uqvran/uq-vran.pdf)*)
-    * ⚡ **Zhi Ding**, Boyu Kong, Jiamei Lv, Yi Gao, Wei Dong, in the 18th China Conference on Internet of Things (Wireless Sensor Network) (CWSN 2024), Taiyuan, China, Accepted, Recommended to submit to Journal of Computer Science and Technology.(CCF B, TH-CPL B)
+    * ⚡ **Zhi Ding**, Boyu Kong, Jiamei Lv, Yi Gao, Wei Dong, in the 18th China Conference on Internet of Things (Wireless Sensor Network) (CWSN 2024), Taiyuan, China, Accepted, *Best Paper Candidate*, Recommended to submit to Journal of Computer Science and Technology.(CCF B, TH-CPL B)
 
 - Selected Awards & Honors:
     * ⚡ Outstanding Graduates of Zhejiang Province.
