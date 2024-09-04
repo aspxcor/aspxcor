@@ -26,7 +26,7 @@
     * ⚡ Outstanding Graduates of Zhejiang Province.
     * ⚡ Outstanding Graduates of Zhejiang University.
 
-- 💬 I am eager to chat and collaborate with individuals from diverse backgrounds. Please feel free to email me at: aspxcor@gmail.com
+- 📫 How to reach me: I am eager to chat and collaborate with individuals from diverse backgrounds. Please [Click Here To Contact Me](mailto:aspxcor@gmail.com).
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aspxcor&hide=jupyter%20notebook,javascript&langs_count=10&layout=compact)-->
 
@@ -55,7 +55,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 📫 How to reach me: [Click Here To Contact Me](mailto:aspxcor@gmail.com)
+- 📫 How to reach me: [Click Here To Contact Me](mailto:aspxcor@gmail.com) 
+- feel free to email me at: aspxcor@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 🤔 I’m a Creative Bug Maker.
