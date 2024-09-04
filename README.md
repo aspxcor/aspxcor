@@ -4,7 +4,7 @@
     * 🤔 I have received my Master degree at *[EAGLE-Lab](http://eagle.zju.edu.cn/) (Innovative Software Technology Development Center), [College of Computer Science and Technology](http://www.cs.zju.edu.cn/csen/), [Zhejiang University](https://www.zju.edu.cn/) (Founded by Prof. Chun Chen, Chinese Academy of engineering academician)* and *[EmNets-Lab](https://www.emnets.cn/zh/) (Emerging Networked Systems), [College of Computer Science and Technology](http://www.cs.zju.edu.cn/csen/), Zhejiang University*, proudly supervised by Prof. Wei Dong (Selected in the National Youth Talent Support Program, supervised by Prof. Chun Chen, Chinese Academy of engineering academician) and Prof. Yi Gao.
   <!-- in the College of Computer Science, [Zhejiang University](https://www.zju.edu.cn/).-->
     * 🤔 Prior to that, I have also received my B.E. degree from *[Zhejiang University](https://www.zju.edu.cn/)*.
-    * 🤔 Prior to that, I graduated from [NO.2 Middle School of Shijiazhuang](https://www.sjzez.com/).
+    * 🤔 Prior to that, I graduated from *[NO.2 Middle School of Shijiazhuang](https://www.sjzez.com/)*.
 <!--- I am currently with the *[State Grid](http://www.sgcc.com.cn/)*, China. -->
   
 <!--- 🤔 I’m a Creative Bug Maker and I’m currently studying at *[EAGLE-Lab](http://eagle.zju.edu.cn/) (Innovative Software Technology Development Center), College of Computer Science and Technology, Zhejiang University*. Recently I’m currently interested in `Machine Learning System`, `Computer Networks`, `HCI(Human–Computer Interaction)`, `Mobile Computing`, `Multimodal Machine Learning` and `Edge Computing`.  `Computer & Operations Research`, -->
@@ -26,7 +26,7 @@
     * ⚡ Outstanding Graduates of Zhejiang Province.
     * ⚡ Outstanding Graduates of Zhejiang University.
 
-- 📫 How to reach me: I am eager to chat and collaborate with individuals from diverse backgrounds. Please [Click Here To Contact Me](mailto:aspxcor@gmail.com).
+- 📫 How to reach me: I am eager to chat and collaborate with individuals from diverse backgrounds. Please *[Click Here To Contact Me](mailto:aspxcor@gmail.com)*.
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aspxcor&hide=jupyter%20notebook,javascript&langs_count=10&layout=compact)-->
 
