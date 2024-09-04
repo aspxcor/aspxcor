@@ -26,7 +26,8 @@
     * ⚡ Outstanding Graduates of Zhejiang Province.
     * ⚡ Outstanding Graduates of Zhejiang University.
 
-- 📫 How to reach me: I am eager to chat and collaborate with individuals from diverse backgrounds. Please *[Click Here To Contact Me](mailto:aspxcor@gmail.com)*.
+- 📫 How to reach me:
+    * I am eager to chat and collaborate with individuals from diverse backgrounds. Please *[Click Here To Contact Me](mailto:aspxcor@gmail.com)*.
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aspxcor&hide=jupyter%20notebook,javascript&langs_count=10&layout=compact)-->
 
