@@ -35,7 +35,7 @@
 [![](https://github-readme-streak-stats.herokuapp.com/?user=aspxcor&show_icons=true&hide_border=true&count_private=true&theme=flag-india&layout=compact)]() [![](https://github-readme-stats.vercel.app/api/top-langs/?username=aspxcor&layout=compact&hide=html,css,less,ejs,tcl,VHDL,scss&hide_border=true&count_private=true&theme=flag-india)]()
 
 - 📫 How to reach me:
-    * I am eager to chat and collaborate with individuals from diverse backgrounds. Please *[Click Here To Contact Me](mailto:aspxcor@gmail.com)*.
+    * I am eager to chat and collaborate with individuals from diverse backgrounds. Please *[Click Here To Contact Me](mailto:dingzhi@zju.edu.cn)*.
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aspxcor&hide=jupyter%20notebook,javascript&langs_count=10&layout=compact)-->
 
