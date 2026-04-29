@@ -5,7 +5,7 @@
 - Biography:
     * 🤔 I have received my Master degree at *[EAGLE-Lab](http://eagle.zju.edu.cn/) (Innovative Software Technology Development Center), [College of Computer Science and Technology](http://www.cs.zju.edu.cn/csen/), [Zhejiang University](https://www.zju.edu.cn/) (Founded by Prof. Chun Chen, Chinese Academy of engineering academician)* and *[EmNets-Lab](https://www.emnets.cn/zh/) （Founded by Prof. Chun Chen and Prof. Wei Dong), [College of Computer Science and Technology](http://www.cs.zju.edu.cn/csen/), Zhejiang University*, proudly supervised by Prof. Wei Dong (Selected in the Cheung Kong Scholars Programme of China, supervised by Prof. Chun Chen, Chinese Academy of engineering academician) and Prof. Yi Gao (Recognized as a top young talent in Zhejiang Province's "Ten Thousand Talents Program").
   <!-- in the College of Computer Science, [Zhejiang University](https://www.zju.edu.cn/).-->
-    * 🤔 Prior to that, I have also received my B.E. degree from *[Zhejiang University](https://www.zju.edu.cn/)*.
+    * 🤔 Prior to that, I have also received my B.E. degree from *[Zhejiang University](https://www.zju.edu.cn/)*, proudly supervised by Prof. Shuanghua Yang (Selected in the National “1000 Talent Plan” of China) and Prof. Yi Cao.
     * 🤔 Prior to that, I graduated from *[NO.2 Middle School of Shijiazhuang](https://www.sjzez.com/)*.
 <!--- I am currently with the *[State Grid](http://www.sgcc.com.cn/)*, China. -->
   
